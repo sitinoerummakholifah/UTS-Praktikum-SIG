@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Nama Objek": "Foto Adik",
+          "Alamat": "Karangnongko, Buluroto Blora",
+          "Tanggal": "28/04/2023",
+          "Foto": "https://photos.fife.usercontent.google.com/pw/AP1GczNacMrwcsMv4ZYEYiSPoz4_Z4dbCR9RhsIRnXrHNAMjfWu-Gn5d-6JtJw=w559-h994-s-no-gm?authuser=0"
+        },
+        "geometry": {
+          "coordinates": [
+            111.3964187970717,
+            -6.9862977108103905,
+            8
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nama Objek": "Masjid Kampus UGM",
+          "Alamat": "Universitas Gadjah Mada",
+          "Tanggal": "21/05/2023",
+          "Foto": "https://photos.fife.usercontent.google.com/pw/AP1GczPkokKiXL7UAGmEecJg33RGuFcmZko8t80Rxe1wQi5Y-eGqHDTVOIbMnA=w733-h412-s-no-gm?authuser=0"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38008474539072,
+            -7.773391861709811,
+            11
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      }
+    ]
+  }
