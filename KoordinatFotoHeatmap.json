@@ -1,0 +1,341 @@
+[
+    {
+        "latitude": -6.986393,
+        "longitude": 111.396721,
+        "value": 8,
+        "marker": "Fajriyah",
+	    "Tanggal": "28 April 2023",
+        "image": ""
+    },
+    {
+        "latitude": -7.773308, 
+        "longitude": 110.380012,
+        "value": 11,
+        "marker": "Masjid Kampus UGM",
+	    "Tanggal": "21 April 2023",
+        "image": ""
+    },
+            {
+                "latitude": -7.773363,
+                "longitude": 110.380188,
+                "value": 4,
+                "marker": "Masjid Kampus UGM",
+                "Tanggal": "7 Mei 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.773317,
+                "longitude": 110.380051,
+                "value": 29,
+                "marker": "Masjid Kampus UGM",
+                "Tanggal": "6 Mei 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.773309,
+                "longitude": 110.380219,
+                "value": 6,
+                "marker": "Masjid Kampus UGM",
+                "Tanggal": "6 Mei 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.986151,
+                "longitude": 111.396652,
+                "value": 3,
+                "marker": "Fajriyah",
+                "Tanggal": "30 Juni 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.016747,
+                "longitude": 111.308166,
+                "value": 8,
+                "marker": "Sholawatan Punggursugih",
+                "Tanggal": "27 Juni 2023",
+                "image": ""
+            },
+            {
+                "latitude": -8.137486,
+                "longitude": 110.575912,
+                "value": 2,
+                "marker": "Pantai Kodok",
+                "Tanggal": "25 Juni 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.962967,
+                "longitude": 110.605103,
+                "value": 2,
+                "marker": "Pasar Malam",
+                "Tanggal": "24 Juni 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.767085,
+                "longitude": 110.329903,
+                "value": 3,
+                "marker": "TK2 JS",
+                "Tanggal": "10 Juni 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.001792,
+                "longitude": 111.375656,
+                "value": 5,
+                "marker": "Sholawatan Santren",
+                "Tanggal": "31 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.968778,
+                "longitude": 111.412758,
+                "value": 12,
+                "marker": "Sholawatan Alun-alun Blora",
+                "Tanggal": "29 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.183903,
+                "longitude": 111.443794,
+                "value": 12,
+                "marker": "Sholawatan Randublatung",
+                "Tanggal": "28 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.030275,
+                "longitude": 111.369156,
+                "value": 1,
+                "marker": "Sholawatan Mojowetan",
+                "Tanggal": "28 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.999782,
+                "longitude": 111.390465,
+                "value": 11,
+                "marker": "Sholawatan Sendangwungu",
+                "Tanggal": "26 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.982106,
+                "longitude": 111.533211,
+                "value": 21,
+                "marker": "Sholawatan Singonegoro Jepon",
+                "Tanggal": "22 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.964180,
+                "longitude": 111.423416,
+                "value": 3,
+                "marker": "Sholawatan Dinas Pendidikan Blora",
+                "Tanggal": "21 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.035056,
+                "longitude": 111.373733,
+                "value": 15,
+                "marker": "Sholawatan Tembulrejo",
+                "Tanggal": "20 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.164419,
+                "longitude": 111.894264,
+                "value": 13,
+                "marker": "Pondok Pesantren Al-Fatimah Bojonegoro",
+                "Tanggal": "16 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.014012,
+                "longitude": 111.309151,
+                "value": 7,
+                "marker": "Sholawatan Punggursugih",
+                "Tanggal": "15 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.018870,
+                "longitude": 111.376724,
+                "value": 17,
+                "marker": "Sholawatan Dongkrikil",
+                "Tanggal": "11 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.001384,
+                "longitude": 111.445785,
+                "value": 1,
+                "marker": "Sholawatan Nglego",
+                "Tanggal": "6 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.986440,
+                "longitude": 111.396362,
+                "value": 33,
+                "marker": "Foto X Adik",
+                "Tanggal": "6 Juli 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.687559,
+                "longitude": 110.415482,
+                "value": 5,
+                "marker": "Universitas Islam Indonesia",
+                "Tanggal": "20 Agustus 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.554163,
+                "longitude": 110.827225,
+                "value": 2,
+                "marker": "Masjid Zayed Solo",
+                "Tanggal": "12 Agustus 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.042584,
+                "longitude": 111.343193,
+                "value": 9,
+                "marker": "Sholawatan Sendanggayam",
+                "Tanggal": "8 Agustus 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.986244,
+                "longitude": 111.396744,
+                "value": 16,
+                "marker": "Fajriyah",
+                "Tanggal": "2 Agustus 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.887194,
+                "longitude": 110.274155,
+                "value": 33,
+                "marker": "Sholawatan Bantul",
+                "Tanggal": "2 Sepetember 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.986456,
+                "longitude": 111.396625,
+                "value": 26,
+                "marker": "Sholawatan BJS",
+                "Tanggal": "15 Oktober 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.797869,
+                "longitude": 110.365194,
+                "value": 5,
+                "marker": "Pentas Barongan Malioboro",
+                "Tanggal": "10 Oktober 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.986116,
+                "longitude": 111.396438,
+                "value": 13,
+                "marker": "Fajriyah",
+                "Tanggal": "14 Oktober 2023",
+                "image": ""
+            },
+            {
+                "latitude": -7.576897,
+                "longitude": 110.454827,
+                "value": 13,
+                "marker": "Bukit Klangon",
+                "Tanggal": "18 November 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.986310,
+                "longitude": 111.396493,
+                "value": 6,
+                "marker": "Fajriyah",
+                "Tanggal": "27 Desember 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.986355,
+                "longitude": 111.396391,
+                "value": 5,
+                "marker": "Fajriyah",
+                "Tanggal": "18 Desember 2024",
+                "image": ""
+            },
+            {
+                "latitude": -6.986337,
+                "longitude": 111.396503,
+                "value": 2,
+                "marker": "Fajriyah",
+                "Tanggal": "17 Agustus 2023",
+                "image": ""
+            },
+            {
+                "latitude": -6.966856,
+                "longitude": 111.424980,
+                "value": 14,
+                "marker": "Sholawatan Kridosono Blora",
+                "Tanggal": "13 Januari 2024",
+                "image": ""
+            },
+            {
+                "latitude": -6.980543,
+                "longitude": 111.405136,
+                "value": 10,
+                "marker": "Sholawatan Dluwangan",
+                "Tanggal": "21 Januari 2024",
+                "image": ""
+            },
+            {
+                "latitude": -6.986456,
+                "longitude": 111.396625,
+                "value": 10,
+                "marker": "Foto X Adik",
+                "Tanggal": "5 Februari 2024",
+                "image": ""
+            },
+            {
+                "latitude": -6.986359,
+                "longitude": 111.396419,
+                "value": 2,
+                "marker": "Fajriyah",
+                "Tanggal": "10 Februari 2024",
+                "image": ""
+            },
+            {
+                "latitude": -7.769531,
+                "longitude": 110.373373,
+                "value": 2,
+                "marker": "Masjid Mardliyyah UGM",
+                "Tanggal": "28 Februari 2024",
+                "image": ""
+            },
+            {
+                "latitude": -7.755517,
+                "longitude": 110.379899,
+                "value": 8,
+                "marker": "Foto Tugas di Kost",
+                "Tanggal": "29 Februari 2024",
+                "image": ""
+            },
+            {
+                "latitude": -7.773729,
+                "longitude": 110.379639,
+                "value": 4,
+                "marker": "Masjid Kampus UGM",
+                "Tanggal": "1 April 2024",
+                "image": ""
+            }
+
+ ]
+
+
